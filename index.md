@@ -4,19 +4,18 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am currently a PhD student at Tianjin University, and my supervisor is Professor Changqing Zhang. I'm now focusing on trustworthy multimodal learning, uncertainty machine learning. During the internship in AI Lab, Tencent, I mainly focus on research related to LLMs.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Multimodal Learning:** uncertainty estimation, classification and regression
+- **Foundation Models:** multimodal, medical images, language models
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Sept. 2023]** Our paper about LLM is accepted to NeurIPS 2023.
+- **[May 2023]** Our paper about multimodal learning is accepted to ICML 2023.
+- **[Sept. 2021]** Our paper about trustworthy multimodal regression is accepted to NeurIPS 2021.
 
 {% include_relative _includes/publications.md %}
 
