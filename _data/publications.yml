@@ -6,9 +6,19 @@ main:
     conference: International Conference on Machine Learning, 2023.
     pdf: https://openreview.net/pdf?id=4PgzyLz6hi
     code: https://github.com/QingyangZhang/CML
-    bibtex: https://
+    bibtex: https://github.com/QingyangZhang/CML
     image: ./assets/img/71.png
     notes: Oral Presentation, First Author
+
+  - title: "Fairness-guided Few-shot Prompting for Large Language Models"
+    authors: <strong>Huan Ma</strong>, Changqing Zhang*, Yatao Bian, Lemao Liu, Zhirui Zhang, Peilin Zhao, Shu Zhang, Huazhu Fu, Qinghua Hu, Bingzhe Wu*
+    conference_short: NeurIPS
+    conference: Conference and Workshop on Neural Information Processing Systems, 2023.
+    pdf: https://arxiv.org/pdf/2303.13217.pdf
+    code: https://github.com/MaHuanAAA/g_fair_prompting
+    bibtex: https://github.com/MaHuanAAA/g_fair_prompting#reference
+    notes: First Author
+    image: ./assets/img/72.png
 
   - title: "Trustworthy Multimodal Regression with Mixture of Normal-inverse Gamma Distributions"
     authors: <strong>Huan Ma</strong>, Zongbo Han, Changqing Zhang*, Huazhu Fu, Joey Tianyi Zhou and Qinghua Hu
@@ -16,7 +26,9 @@ main:
     conference: Conference and Workshop on Neural Information Processing Systems, 2021.
     pdf: https://proceedings.neurips.cc/paper/2021/file/371bce7dc83817b7893bcdeed13799b5-Paper.pdf
     code: https://github.com/MaHuanAAA/MoNIG
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    bibtex: https://github.com/MaHuanAAA/MoNIG#reference
     notes: First Author
-    image: ./assets/img/72.png
+    image: ./assets/img/41.png
+
+
+    
