@@ -3,7 +3,7 @@ main:
   - title: Calibrating Multimodal Learning
     authors: <strong>Huan Ma</strong>, Qingyang Zhang, Changqing Zhang*, Bingzhe Wu*, Huazhu Fu, Joey Tianyi Zhou, Qinghua Hu
     conference_short: ICML(Oral)
-    conference: International Conference on Machine Learning, 2023.
+    conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2023.
     pdf: https://openreview.net/pdf?id=4PgzyLz6hi
     code: https://github.com/QingyangZhang/CML
     bibtex: https://github.com/QingyangZhang/CML
@@ -13,7 +13,7 @@ main:
   - title: "Fairness-guided Few-shot Prompting for Large Language Models"
     authors: <strong>Huan Ma</strong>, Changqing Zhang*, Yatao Bian, Lemao Liu, Zhirui Zhang, Peilin Zhao, Shu Zhang, Huazhu Fu, Qinghua Hu, Bingzhe Wu*
     conference_short: NeurIPS
-    conference: Conference and Workshop on Neural Information Processing Systems, 2023.
+    conference: Conference and Workshop on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2023.
     pdf: https://arxiv.org/pdf/2303.13217.pdf
     code: https://github.com/MaHuanAAA/g_fair_prompting
     bibtex: https://github.com/MaHuanAAA/g_fair_prompting#reference
@@ -23,7 +23,7 @@ main:
   - title: "Trustworthy Multimodal Regression with Mixture of Normal-inverse Gamma Distributions"
     authors: <strong>Huan Ma</strong>, Zongbo Han, Changqing Zhang*, Huazhu Fu, Joey Tianyi Zhou and Qinghua Hu
     conference_short: NeurIPS
-    conference: Conference and Workshop on Neural Information Processing Systems, 2021.
+    conference: Conference and Workshop on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2021.
     pdf: https://proceedings.neurips.cc/paper/2021/file/371bce7dc83817b7893bcdeed13799b5-Paper.pdf
     code: https://github.com/MaHuanAAA/MoNIG
     bibtex: https://github.com/MaHuanAAA/MoNIG#reference
