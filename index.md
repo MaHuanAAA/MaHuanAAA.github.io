@@ -14,6 +14,7 @@ I am currently a PhD student at Tianjin University, and my supervisor is Profess
 ## News
 
 - **[Sept. 2023]** Our paper about LLM is accepted to **NeurIPS** 2023.
+- **[June 2023]** Master's thesis was awarded as an **outstanding thesis** at Tianjin University.
 - **[May 2023]** Our paper about multimodal learning is accepted to **ICML** 2023.
 - **[Sept. 2021]** Our paper about trustworthy multimodal regression is accepted to **NeurIPS** 2021.
 
