@@ -1,5 +1,14 @@
 main:
-
+  - title: "Trustworthy Multimodal Regression with Mixture of Normal-inverse Gamma Distributions"
+    authors: <strong>Huan Ma</strong>, Zongbo Han, Changqing Zhang*, Huazhu Fu, Joey Tianyi Zhou and Qinghua Hu
+    conference_short: NeurIPS
+    conference: Advances in Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2021.
+    pdf: https://proceedings.neurips.cc/paper/2021/file/371bce7dc83817b7893bcdeed13799b5-Paper.pdf
+    code: https://github.com/MaHuanAAA/MoNIG
+    bibtex: https://github.com/MaHuanAAA/MoNIG#reference
+    notes: Primary Co-First Author
+    image: ./assets/img/72.png
+    
   - title: Calibrating Multimodal Learning
     authors: <strong>Huan Ma</strong>, Qingyang Zhang, Changqing Zhang*, Bingzhe Wu*, Huazhu Fu, Joey Tianyi Zhou, Qinghua Hu
     conference_short: ICML(Oral)
@@ -8,7 +17,7 @@ main:
     code: https://github.com/QingyangZhang/CML
     bibtex: https://github.com/QingyangZhang/CML
     image: ./assets/img/71.png
-    notes: Oral Presentation, First Author
+    notes: Oral Presentation, Primary Co-First Author
 
   - title: "Fairness-guided Few-shot Prompting for Large Language Models"
     authors: <strong>Huan Ma</strong>, Changqing Zhang*, Yatao Bian, Lemao Liu, Zhirui Zhang, Peilin Zhao, Shu Zhang, Huazhu Fu, Qinghua Hu, Bingzhe Wu*
@@ -20,15 +29,25 @@ main:
     notes: First Author
     image: ./assets/img/72.png
 
-  - title: "Trustworthy Multimodal Regression with Mixture of Normal-inverse Gamma Distributions"
-    authors: <strong>Huan Ma</strong>, Zongbo Han, Changqing Zhang*, Huazhu Fu, Joey Tianyi Zhou and Qinghua Hu
-    conference_short: NeurIPS
-    conference: Advances in Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2021.
-    pdf: https://proceedings.neurips.cc/paper/2021/file/371bce7dc83817b7893bcdeed13799b5-Paper.pdf
-    code: https://github.com/MaHuanAAA/MoNIG
-    bibtex: https://github.com/MaHuanAAA/MoNIG#reference
-    notes: First Author
+  - title: "Spurious Feature Eraser: Stabilizing Test-Time Adaptation for Vision-Language Foundation Model"
+    authors: <strong>Huan Ma</strong>, Yan Zhu, Changqing Zhang*, Peilin Zhao, Baoyuan Wu, Long-Kai Huang, Qinghua Hu, Bingzhe Wu*
+    conference_short: AAAI
+    conference: The Association for the Advancement of Artiffcial Intelligence <strong>(AAAI)</strong>, 2025.
+    pdf: https://xxx
+    code: https://xxx
+    bibtex: https://xxx
+    notes: Primary Co-First Author
     image: ./assets/img/41.png
+
+  - title: "Exploring Task-Level Optimal Prompts for Visual In-Context Learning"
+    authors: Yan Zhu, <strong>Huan Ma</strong>, Changqing Zhang*
+    conference_short: AAAI
+    conference: The Association for the Advancement of Artiffcial Intelligence <strong>(AAAI)</strong>, 2025.
+    pdf: https://proceedinxxx
+    code: https://gixxx
+    bibtex: https://gxxx
+    notes: Secondary Co-First Author
+    image: ./assets/img/824.png
 
 
     
