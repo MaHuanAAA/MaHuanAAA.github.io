@@ -27,7 +27,7 @@ main:
     code: https://github.com/MaHuanAAA/g_fair_prompting
     bibtex: https://github.com/MaHuanAAA/g_fair_prompting#reference
     notes: First Author
-    image: ./assets/img/72.png
+    image: ./assets/img/41.png
 
   - title: "Spurious Feature Eraser: Stabilizing Test-Time Adaptation for Vision-Language Foundation Model"
     authors: <strong>Huan Ma</strong>, Yan Zhu, Changqing Zhang*, Peilin Zhao, Baoyuan Wu, Long-Kai Huang, Qinghua Hu, Bingzhe Wu*
@@ -37,7 +37,7 @@ main:
     code: https://xxx
     bibtex: https://xxx
     notes: Primary Co-First Author
-    image: ./assets/img/41.png
+    image: ./assets/img/421.png
 
   - title: "Exploring Task-Level Optimal Prompts for Visual In-Context Learning"
     authors: Yan Zhu, <strong>Huan Ma</strong>, Changqing Zhang*
