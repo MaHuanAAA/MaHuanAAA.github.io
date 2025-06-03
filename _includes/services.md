@@ -3,7 +3,7 @@
 
 
 <div style="display: flex; justify-content: space-between; margin: 0 10px;">
-  <h4 style="margin: 0;">>ERNIE, Baidu</h4>
+  <h4 style="margin: 0;">ERNIE, Baidu</h4>
   <h4 style="margin: 0;">April 2025 -- Now</h4>
 </div>
 <ul style="margin:0 0 5px;">
