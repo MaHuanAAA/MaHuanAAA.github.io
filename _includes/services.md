@@ -1,10 +1,15 @@
-## Services
+## Internship
 
 
-<h4 style="margin:0 10px 0;">Conference Reviewers</h4>
+<h4 style="margin:0 10px 0;">ERNIE, Baidu      April 2025 -- </h4>
 
 <ul style="margin:0 0 5px;">
-  <li><a href="https://nips.cc/"><autocolor>Conference on Neural Information Processing Systems (NeurIPS) 2022-2023</autocolor></a></li>
-  <li><a href="https://icml.cc/"><autocolor>International Conference on Machine Learning (ICML) 2022-2023</autocolor></a></li>
-  <li><a href="https://iclr.cc/"><autocolor>International Conference on Learning Representations (ICLR) 2023</autocolor></a></li>
+  <li><autocolor>Research on LLM Uncertainty Estimation and Applications.</autocolor></li>
+</ul>
+
+<h4 style="margin:0 10px 0;">AI Lab, Tencent      April 2022 -- Nov. 2024</h4>
+
+<ul style="margin:0 0 5px;">
+  <li><autocolor>5 papers have been completed, and 3 of them have been accepted.</autocolor></li>
+  <li><autocolor>Built LLM content moderation system (harmful content detection) based on multi-agents.</autocolor></li>
 </ul>
