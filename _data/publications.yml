@@ -1,4 +1,24 @@
 main:
+  - title: "Semantic Energy: Detecting LLM Hallucination Beyond Entropy"
+    authors: <strong>Huan Ma</strong>, Jiadong Pan, Jing Liu, Yan Chen, Joey Tianyi Zhou, Guangyu Wang, Qinghua Hu, Hua Wu, Changqing Zhang, Haifeng Wang
+    conference_short: arXiv
+    conference: arXiv preprint <strong>arXiv:2508.14496</strong>, 2025.
+    pdf: https://arxiv.org/pdf/2508.14496
+    code: https://github.com/MaHuanAAA/SemanticEnergy
+    bibtex: https://arxiv.org/abs/2508.14496
+    notes: 
+    image: ./assets/img/72.png
+    
+  - title: "Estimating LLM Uncertainty with Evidence"
+    authors: <strong>Huan Ma</strong>, Jingdong Chen, Joey Tianyi Zhou, Guangyu Wang, Changqing Zhang
+    conference_short: arXiv
+    conference: arXiv preprint <strong>arXiv:2502.00290</strong>, 2025.
+    pdf: https://arxiv.org/pdf/2502.00290
+    code: https://github.com/MaHuanAAA/logtoku
+    bibtex: https://arxiv.org/abs/2502.00290
+    notes: 
+    image: ./assets/img/72.png
+
   - title: "Trustworthy Multimodal Regression with Mixture of Normal-inverse Gamma Distributions"
     authors: <strong>Huan Ma</strong>, Zongbo Han, Changqing Zhang*, Huazhu Fu, Joey Tianyi Zhou and Qinghua Hu
     conference_short: NeurIPS
