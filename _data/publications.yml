@@ -7,7 +7,7 @@ main:
     code: https://github.com/MaHuanAAA/SemanticEnergy
     bibtex: https://arxiv.org/abs/2508.14496
     notes: 
-    image: ./assets/img/72.png
+    image: ./assets/img/3898.png
     
   - title: "Estimating LLM Uncertainty with Evidence"
     authors: <strong>Huan Ma</strong>, Jingdong Chen, Joey Tianyi Zhou, Guangyu Wang, Changqing Zhang
@@ -17,7 +17,7 @@ main:
     code: https://github.com/MaHuanAAA/logtoku
     bibtex: https://arxiv.org/abs/2502.00290
     notes: 
-    image: ./assets/img/72.png
+    image: ./assets/img/q75.webp
 
   - title: "Trustworthy Multimodal Regression with Mixture of Normal-inverse Gamma Distributions"
     authors: <strong>Huan Ma</strong>, Zongbo Han, Changqing Zhang*, Huazhu Fu, Joey Tianyi Zhou and Qinghua Hu
