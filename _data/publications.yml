@@ -28,7 +28,7 @@ main:
     pdf: https://openreview.net/pdf?id=4PgzyLz6hi
     code: https://github.com/QingyangZhang/CML
     bibtex: https://github.com/QingyangZhang/CML
-    image: ./assets/img/72.png
+    image: ./assets/img/f15.png
     notes: Oral Presentation, Primary Co-First Author
 
   - title: "Fairness-guided Few-shot Prompting for Large Language Models"
@@ -39,7 +39,7 @@ main:
     code: https://github.com/MaHuanAAA/g_fair_prompting
     bibtex: https://github.com/MaHuanAAA/g_fair_prompting#reference
     notes: First Author
-    image: ./assets/img/71.png
+    image: ./assets/img/z29.png
     
   - title: "Trustworthy Multimodal Regression with Mixture of Normal-inverse Gamma Distributions"
     authors: <strong>Huan Ma</strong>, Zongbo Han, Changqing Zhang, Huazhu Fu, Joey Tianyi Zhou and Qinghua Hu
@@ -49,7 +49,7 @@ main:
     code: https://github.com/MaHuanAAA/MoNIG
     bibtex: https://github.com/MaHuanAAA/MoNIG#reference
     notes: Primary Co-First Author
-    image: ./assets/img/41.png
+    image: ./assets/img/r40.png
     
   - title: "Spurious Feature Eraser: Stabilizing Test-Time Adaptation for Vision-Language Foundation Model"
     authors: <strong>Huan Ma</strong>, Yan Zhu, Changqing Zhang, Peilin Zhao, Baoyuan Wu, Long-Kai Huang, Qinghua Hu, Bingzhe Wu
@@ -59,7 +59,7 @@ main:
     code: https://xxx
     bibtex: https://xxx
     notes: Primary Co-First Author
-    image: ./assets/img/421.jpg
+    image: ./assets/img/d15.png
 
   - title: "Exploring Task-Level Optimal Prompts for Visual In-Context Learning"
     authors: Yan Zhu, <strong>Huan Ma</strong>, Changqing Zhang
@@ -69,7 +69,7 @@ main:
     code: https://gixxx
     bibtex: https://gxxx
     notes: Secondary Co-First Author
-    image: ./assets/img/824.jpg
+    image: ./assets/img/e19.png
 
 
     
