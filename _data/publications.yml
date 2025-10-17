@@ -49,7 +49,7 @@ main:
     code: https://github.com/MaHuanAAA/MoNIG
     bibtex: https://github.com/MaHuanAAA/MoNIG#reference
     notes: Primary Co-First Author
-    image: ./assets/img/e19.png
+    image: ./assets/img/y38.png
     
   - title: "Spurious Feature Eraser: Stabilizing Test-Time Adaptation for Vision-Language Foundation Model"
     authors: <strong>Huan Ma</strong>, Yan Zhu, Changqing Zhang, Peilin Zhao, Baoyuan Wu, Long-Kai Huang, Qinghua Hu, Bingzhe Wu
@@ -59,7 +59,7 @@ main:
     code: https://xxx
     bibtex: https://xxx
     notes: Primary Co-First Author
-    image: ./assets/img/y38.png
+    image: ./assets/img/e19.png
 
   - title: "Exploring Task-Level Optimal Prompts for Visual In-Context Learning"
     authors: Yan Zhu, <strong>Huan Ma</strong>, Changqing Zhang
