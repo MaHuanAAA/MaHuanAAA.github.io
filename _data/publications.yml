@@ -59,7 +59,7 @@ main:
     code: https://xxx
     bibtex: https://xxx
     notes: Primary Co-First Author
-    image: ./assets/img/p30.png
+    image: ./assets/img/y38.png
 
   - title: "Exploring Task-Level Optimal Prompts for Visual In-Context Learning"
     authors: Yan Zhu, <strong>Huan Ma</strong>, Changqing Zhang
@@ -69,7 +69,7 @@ main:
     code: https://gixxx
     bibtex: https://gxxx
     notes: Secondary Co-First Author
-    image: ./assets/img/y38.png
+    image: ./assets/img/p30.png
 
 
     
