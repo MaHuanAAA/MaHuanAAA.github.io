@@ -8,6 +8,7 @@
 </div>
 <ul style="margin:0 0 5px;">
   <li><autocolor>Research on LLM Uncertainty Estimation and Applications.</autocolor></li>
+  <li><autocolor>Research on Tool Calling for Foundation Models.</autocolor></li>
 </ul>
 
 <div style="display: flex; justify-content: space-between; margin: 0 10px;">
