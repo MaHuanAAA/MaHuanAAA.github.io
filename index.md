@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am currently a PhD student at Tianjin University, and my supervisor is Professor Changqing Zhang. I'm now focusing on uncertainty-aware machine learning related to LLMs. In the Baidu's ERNIE Group, I am currently involved in research to enhance the tool calling capability of ERNIE (MCP).
+I am currently a PhD student at Tianjin University, and my supervisor is Professor Changqing Zhang, focusing on uncertainty-aware machine learning related to LLMs. Now, I am involved in research to enhance the tool calling capability of Foundation Model in the ERNIE Group (MCP Research).
 
 
 
